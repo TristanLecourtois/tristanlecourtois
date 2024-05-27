@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-tristanlecourtois4@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:tristanlecourtois4@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-tristanlecourtois-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-lecourtois-599812268/)
-[![Github Badge](https://img.shields.io/badge/-tristanlecourtois-orange?style=flat&logo=GitHub&logoColor=white)](https://tristanlecourtois.github.io"")
+[![Github Badge](https://img.shields.io/badge/-tristanlecourtois-orange?style=flat&logo=GitHub&logoColor=white)](https://tristanlecourtois.github.io)
 
 
 ---
