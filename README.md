@@ -7,8 +7,6 @@
 
 ---
 
-I'm a CS Student with a strong background in Python, PyTorch, scikit-learn, statistics, and linear algebra. During my studies, I worked on deep learning projects like Text2SQL model or a ML-based self-diagnostic tool for endometriosis. I'm passionate about AI and want to apply my skills to build innovative products and services.
-
 - 🔭 I'm into NLP, Machine Learning, Data Science.
 - 🌱 I’m currently a MSc CS Student at ENS Paris-Saclay (MVA) and Mines Saint-Étienne  
 - ⚡ Check out my portfolio site [tristanlecourtois.com](https://tristanlecourtois.github.io) for all my projects and some thoughts about AI.
