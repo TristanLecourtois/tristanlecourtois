@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I'm into NLP, Machine Learning, Data Science and exploring foundation models applied to multiple modalities.
-- 🌱 I’m currently a MSc CS Student at ENS Paris-Saclay (MVA) and Mines Saint-Étienne  
+- 🔭 Passionate about robotics, NLP, biology, and exploring how foundation models can be applied across multiple modalities.
+- 🌱 I'm currently a MSc CS Student at ENS Paris-Saclay (MVA) and a former NASA JPL intern.
 - ⚡ Check out my portfolio site [tristanlecourtois.com](https://tristanlecourtois.github.io) for all my projects and some thoughts about AI.
 
